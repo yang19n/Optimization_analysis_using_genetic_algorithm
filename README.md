@@ -1,7 +1,8 @@
 # Research Project
 ## Optimization analysis using genetic algorithm
 ### Background
-The current study aims at optimizing the design of the tube bundle and the mass flow rate ofthe air cooler.
+The current study aims at optimizing the design of the tube bundle and the mass flow rate of the air cooler.
+Optimization objective: minimize the overall power output of the system.
 ### Tools
 Python (numpy, geatpy)
 ### Related optimization model
